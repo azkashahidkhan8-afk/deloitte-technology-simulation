@@ -11,11 +11,6 @@ Industrial devices generate logs in unpredictable layouts depending on firmware 
 * **Algorithmic Routing:** Configured dynamic routing using safe class getters (`.get()`) to identify data payloads dynamically without running into system KeyErrors.
 * **Automated Quality Checks:** Implemented regression unit test assertions (`unittest`) to guarantee data integrity across diverse pipelines.
 
-## 🚀 Execution & Testing
-To spin up the script and run the integrated test framework locally, execute the following command in your terminal:
-
-```bash
-python main.py
 ```
 
 ## 📜 Verification & Credentials
